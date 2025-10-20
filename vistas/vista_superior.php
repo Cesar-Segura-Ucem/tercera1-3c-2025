@@ -10,7 +10,9 @@
 
 <menu>
     <div class="menu-izquierda">
-        <img src="./img/logo.png" alt="" height="100">
+        <a href="./">
+            <img src="./img/logo.png" alt="" height="100">
+        </a>
     </div>
     <div class="menu-derecha">
         <div class="menu-container">
