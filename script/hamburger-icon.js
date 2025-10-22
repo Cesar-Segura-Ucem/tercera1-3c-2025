@@ -1,4 +1,4 @@
-console.log("Hamburger Icon Cargado");
+console.log("Cargando Hamburger Icon...");
 
 (function () {
   const MAIN_OBJ = {

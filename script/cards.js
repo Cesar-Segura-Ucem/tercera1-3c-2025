@@ -1,4 +1,4 @@
-console.log("Cards Cargado");
+console.log("Cargando Cards...");
 
 const dataCards = [
     {
